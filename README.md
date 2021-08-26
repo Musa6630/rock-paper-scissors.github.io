@@ -1,2 +1,2 @@
-# first_project01
+# Rock_Paper_Scissors
 Rock Paper Scissors source code
